@@ -1,5 +1,5 @@
 ### *Hi* there 👋
-### I'm a chemistry student at epfl 🧪
+### I'm a chemical engineering student at epfl 🧪
 ### Currently trying to improve my programming skills 💻
 <!--
 **alymartinelli/alymartinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
